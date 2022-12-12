@@ -1,0 +1,42 @@
+<h2>Welcome to Footprints - Siting Simplified!</h2>
+<br/>
+Please follow these instructions to access your account and how to become familiar with the application.<br/>
+<br/>
+<h2 style='color:#0FE890;'>To access the Footprints application</h2>
+<br/>
+Footprints is located at: <a href="#LOGIN-LINK#">#LOGIN-LINK#</a><br/>
+<br/>
+User name: <b>#USERNAME#</b><br/>
+Password: <b>#USERPASS#</b><br/>
+<br/>
+You will be prompted to change your password on first login.<br/>
+<br/>
+<h2 style='color:#0FE890;'>Using the application</h2>
+<br/>
+You have access to a User Guide that is available to you by clicking the CONTACT SUPPORT button within the application.<br/>
+<br/>
+Four documents are attached to help you become familiar with siting a floorplan using Footprints:<br/>
+<br/>
+<a href="https://s3-ap-southeast-2.amazonaws.com/footprints-storage/welcome/Footprints+Training+Examples+V.2.pdf">Training Examples Guide</a><br/>
+<a href="https://s3-ap-southeast-2.amazonaws.com/footprints-storage/welcome/Example+1+-+Lot+104+Colleen+Street-1.pdf">Example 1 - Lot 104 Colleen Street</a><br/>
+<a href="https://s3-ap-southeast-2.amazonaws.com/footprints-storage/welcome/Example+2+-+Lot+2166+Huntington+Terrace-1.pdf">Example 2 - Lot 2166 Huntington Terrace</a><br/>
+<a href="https://s3-ap-southeast-2.amazonaws.com/footprints-storage/welcome/Example+3+-+Lot+1439+Belleview+Crescent-1-1.pdf">Example 3 - Lot 1439 Belleview Crescent</a><br/>
+<br/>
+We recommend you print out the Training Examples to follow when trying out Footprints for the first time. <br/>
+<br/>
+<h2 style='color:#0FE890;'>Application Issues and Questions</h2>
+<br/>
+If you experience errors in the application please report the error by clicking on the Contact Support button or e-mail us at support@landconnect.com.au <br/>
+<br/>
+We also welcome your feedback and suggestions. <br/>
+<br/>
+Kind regards,<br/>
+<br/>
+<b>Landconnect Support Team</b><br/>
+ <br/>
+<a href="mailto:support@landconnect.com.au">support@landconnect.com.au</a><br/>
+<a href="http://www.landconnect.com.au">www.landconnect.com.au</a><br/>
+
+
+
+

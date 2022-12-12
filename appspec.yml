@@ -1,0 +1,25 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/landconnect/deployment
+permissions:
+  - object: /var/www/landconnect/deployment
+    owner: deploy-user
+    group: www-data
+    pattern: "**"
+    mode: 775
+    type:
+      - file
+      - directory
+hooks:
+  BeforeInstall:
+    - location: deployment-scripts/arrange-deployment-folders.sh
+      runas: root
+  AfterInstall:
+    - location: deployment-scripts/env-config.sh
+      runas: deploy-user
+  ApplicationStart:
+    - location: deployment-scripts/finish-installation.sh
+      runas: root
+      

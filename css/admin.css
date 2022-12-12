@@ -1,0 +1,102 @@
+.navbar-brand-admin {
+	text-indent: -9999px;
+	display: block;
+	background: url(/img/logins/landconnect/temp-id.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 200px;
+	margin: 15px;
+	height: 20px;
+	line-height: 0;
+	padding: 0;
+}
+
+.navbar-nav.navbar-right:last-child {
+	margin-right: 0;
+}
+
+h3.panel-title {
+	height: 34px;
+	line-height: 34px;
+}
+
+h3.panel-title button {
+	float: right;
+}
+
+#widget-users .table-responsive tr,
+#widget-users .table-responsive td,
+#widget-users .table-responsive table,
+#widget-users .table-responsive th {
+	/* border: 0 !important; */
+}
+
+#widget-users btn-group {
+	min-width: 92px;
+}
+
+#widget-users .panel-body * {
+	color: #444;
+}
+
+#widget-users .panel-primary {
+	border: 0;
+}
+
+#widget-users .panel-primary > .panel-heading {
+	background: none;
+	padding: 0;
+	border-color: #fff
+}
+
+#widget-users .panel-primary > .panel-heading h3 {
+	color: #333;
+}
+
+#widget-users .panel-body {
+	padding: 15px 0;
+}
+
+#widget-users .btn-primary {
+	background: #494FC9;
+	border-color: #494FC9;
+	color: #fff;
+}
+
+#widget-users .btn-primary .caret {
+	color: #fff;	
+}
+
+#widget-users .btn-success,
+.modal-dialog .btn-success {
+	background: #494FC9;
+	border-color: #494FC9;	
+	color: #fff;	
+}
+
+#widget-users .btn-success .fa,
+.modal-dialog .btn-success .fa {
+	color: #fff;
+}
+
+.modal-dialog {
+	width: 700px;
+}
+
+.modal-dialog a {
+	color: #999;
+}
+
+.has-switch span.switch-left,
+.has-switch span.switch-primary {
+	background: #494FC9 !important;
+}
+
+.btn-toggle-primary-group-on {
+	background: #494FC9 !important;
+	border-color: #494FC9 !important;	
+}
+
+.btn-link {
+	color: #999;
+}

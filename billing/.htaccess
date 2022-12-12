@@ -1,0 +1,7 @@
+# disable browsing from the folders
+Options -Indexes
+# force HTTPS for the paywall
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+# [R=301,L]

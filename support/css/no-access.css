@@ -1,0 +1,7 @@
+body > * {
+	display: none;
+}
+
+.no-access {
+	display: block !important;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	align-content: center;
+	min-height: 100%;
+	font-family: 'Roboto', sans-serif;
+	background: #222;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.brand-lc {
+    color: #0fe890;
+}
+
+.container {
+	width: 66%;
+}
+
+.logo {
+	display: inline-block;
+	background: url(../../images/logo.png) no-repeat;
+	height: 24px;
+	width: 240px;
+	background-size: contain;
+}

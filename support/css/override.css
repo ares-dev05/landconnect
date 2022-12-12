@@ -1,0 +1,33 @@
+.nav .btn {
+	margin: 10px 0 10px 15px;
+}
+
+img {
+	max-width: 100%;
+}
+
+ol ol {
+	list-style-type: lower-alpha;
+}
+
+.info-class {
+	padding: 15px;
+}
+
+.alert {
+	margin-top: 20px;
+}
+
+.no-access {
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+display: none; 
+z-index: 1100;
+color: #00a79d;
+padding: 100px 0;
+text-align: center;
+
+}

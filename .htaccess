@@ -1,0 +1,2 @@
+Options -Indexes
+RedirectMatch 301 ^/homepage\.php$ /footprints.php
